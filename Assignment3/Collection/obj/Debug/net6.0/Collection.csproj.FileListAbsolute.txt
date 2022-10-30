@@ -1,0 +1,15 @@
+F:\C# Assignments\Assignment3\Collection\bin\Debug\net6.0\Collection.exe
+F:\C# Assignments\Assignment3\Collection\bin\Debug\net6.0\Collection.deps.json
+F:\C# Assignments\Assignment3\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+F:\C# Assignments\Assignment3\Collection\bin\Debug\net6.0\Collection.dll
+F:\C# Assignments\Assignment3\Collection\bin\Debug\net6.0\Collection.pdb
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.dll
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\refint\Collection.dll
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.pdb
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+F:\C# Assignments\Assignment3\Collection\obj\Debug\net6.0\ref\Collection.dll

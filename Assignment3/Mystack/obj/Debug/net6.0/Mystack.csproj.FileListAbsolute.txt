@@ -1,0 +1,15 @@
+F:\C# Assignments\Assignment3\Mystack\bin\Debug\net6.0\Mystack.exe
+F:\C# Assignments\Assignment3\Mystack\bin\Debug\net6.0\Mystack.deps.json
+F:\C# Assignments\Assignment3\Mystack\bin\Debug\net6.0\Mystack.runtimeconfig.json
+F:\C# Assignments\Assignment3\Mystack\bin\Debug\net6.0\Mystack.dll
+F:\C# Assignments\Assignment3\Mystack\bin\Debug\net6.0\Mystack.pdb
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.csproj.AssemblyReference.cache
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.AssemblyInfoInputs.cache
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.AssemblyInfo.cs
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.csproj.CoreCompileInputs.cache
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.dll
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\refint\Mystack.dll
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.pdb
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\Mystack.genruntimeconfig.cache
+F:\C# Assignments\Assignment3\Mystack\obj\Debug\net6.0\ref\Mystack.dll
