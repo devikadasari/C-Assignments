@@ -1,0 +1,5 @@
+F:\C#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.csproj.AssemblyReference.cache
+F:\C#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.AssemblyInfoInputs.cache
+F:\C#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.AssemblyInfo.cs
+F:\C#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.csproj.CoreCompileInputs.cache
