@@ -103,7 +103,8 @@ namespace Reflection_Assembly
     }
 }
 =======
-            Assembly asm = Assembly.LoadFrom(@"C:\Users\vrokx\source\repos\Reflection_Assembly\MyAssembly\bin\Debug\net6.0\MyAssembly.dll");
+            Assembly asm = Assembly.LoadFrom(@"C:\Users\devika
+            \source\repos\Reflection_Assembly\MyAssembly\bin\Debug\net6.0\MyAssembly.dll");
             Type t = asm.GetType("MyAssembly.MyClass");
 
             
